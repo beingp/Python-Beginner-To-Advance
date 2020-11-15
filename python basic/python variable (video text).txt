@@ -1,0 +1,5 @@
+Python Variables and Data types
+
+	What is variable?
+	Condition for variable name?
+	Types of python variables and how they works?
