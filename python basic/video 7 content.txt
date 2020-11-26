@@ -1,0 +1,10 @@
+Video -7:
+
+1.	Escape Sequence
+2.	Raw String to ignore escape sequence
+3.	String format / formatted string  
+	a.	Printing simple value
+	b.	Printing multiple types of value
+	c.	Doing sting concatenation 
+	d.	Doing mathematical calculation 
+	e.	Calling function 

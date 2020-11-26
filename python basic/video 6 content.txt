@@ -1,0 +1,17 @@
+1.	Concatenate a sting.
+2.	Checking any string Member.
+3.  Multi line string.
+
+4.	Built-in functions to Work with string
+	a.	Len()
+	b.	Find()
+	c.	Replace()
+	d.	Split()
+	e.	splitlines()
+	f.	capitalize()
+	g.	count()
+	h.	title()
+	i.	islower()
+	j.	isupper()
+	k.	index()
+	l.	endswith()

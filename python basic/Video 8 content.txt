@@ -1,0 +1,8 @@
+Video - 8
+
+1.	Declaring and print list.
+2.	Accessing list [positive, negative]
+3.	Checking any item in list
+4.	Update a list
+5.	Delete a list/ list element 
+6.	Concatenation of list
